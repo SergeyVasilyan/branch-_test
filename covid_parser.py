@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-
 import os
 import requests
 from pathlib import Path
-
 URL = "https://vcim.am/covidqr/?covidqr="
 DATA = 227600110998
 STEP = 1000000
