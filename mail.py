@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import smtplib
 
 product_id="ABC-123-asas-2"
+
 def send_mail(days):
    port = 2525
    smtp_server = "smtp.mailtrap.io"
