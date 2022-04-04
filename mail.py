@@ -2,7 +2,6 @@
 from threading import Timer
 from datetime import datetime, timedelta
 import smtplib
-
 product_id="ABC-123-asas-2"
 def send_mail(days):
    port = 2525
